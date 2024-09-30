@@ -64,10 +64,31 @@ Importance
 - Ensures that developers build software in a consistent and predictable way, reducing risks of bugs, security vulnerabilities and other defects.
 
 ## 6. How does defining the project scope contribute to successful project planning? What is a Work Breakdown Structure (WBS), and why is it useful?
+
+-Defining and managing your project scope enables your team to deliver projects efficiently in accordance with the original requirements, rather than letting them continue to snowball.
+-A work breakdown structure (WBS) is a visual, hierarchical and deliverable-oriented deconstruction of a project.
+ It is a helpful diagram for project managers because it allows them to break down their project scope and visualize all the tasks required to complete their projects.
+
 ## 7. What are the benefits of developing a detailed project schedule, and how can Gantt charts assist in this process?
+
+With a detailed project schedule, you can monitor how your resources are being utilized as the project unfolds.
+Since the tasks are lined up in a definite sequence, it becomes easy to monitor real-time progress effortlessly.
+So a project schedule gives you instant insight into: Which tasks need to be taken up and when?
+Gantt charts are useful for planning and scheduling projects.
+They help you assess how long a project should take, determine the resources needed, and plan the order in which you'll complete tasks.
+They're also helpful for managing the dependencies between tasks.
+
 ## 8. What are the core issues that your software aims to address? Why are these problems significant to your target audience?
 ## 9. How can clearly defining the problem help in developing a more effective software solution?
+
+Before you can solve a problem, you need to understand it clearly and completely.
+This means defining the scope, goals, constraints, and assumptions of the problem, as well as identifying the stakeholders, users, and requirements of the system.
+
 ## 10. How would you describe your software solution in a way that captures its essence without diving into technical details?
+
+Don't dive into the technical details right away.
+Instead, give an overview of the main idea, problem, or solution that you are explaining. Why is it important, relevant, or useful?
+
 ## 11. What are the main features or functionalities that make your software stand out?
 ## 12. What data is available regarding the market size and growth potential for your software?
 ## 13. How can understanding market trends inform your software’s positioning and development?
